@@ -7,4 +7,4 @@ This repo is provided simply to provide stable, versioned access to this publicl
 
 At time of writing, the most recent entry has a registration date of 2019-02-15.
 
-I indent to update this dataset from time to time, but there is currently no automated process for this.  Please submit am issue if you see that the file is out of date.
+I indent to update this dataset from time to time, but there is currently no automated process for this.  Please submit an issue if you see that the file is out of date.
